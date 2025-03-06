@@ -109,3 +109,4 @@ web-build/
 dist/
 
 # @end expo-cli
+src/service/userSync/UserSyncService.dev.ts.fix
